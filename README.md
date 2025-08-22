@@ -57,4 +57,7 @@ The Intellectual Property Registry platform is designed for continuous evolution
 
 ## Contract Address Details
 
-Contract Address:
+Contract Address:'ST2WZGCXXYCS7ERNFWGXBXD3W1MBJF2JAP6C7NB66.IntellectualPropertyRegistry'
+<img width="1020" height="749" alt="image" src="https://github.com/user-attachments/assets/3050c8a6-971f-4910-867c-545c18cfe4a0" />
+
+
